@@ -1,0 +1,6 @@
+@"
+streamlit
+pandas
+plotly
+matplotlib
+"@ | Set-Content requirements.txt
